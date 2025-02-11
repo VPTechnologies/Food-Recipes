@@ -1,0 +1,1 @@
+This project entails the design of a user-friendly mobile application aimed at food enthusiasts and home cooks. The app features a vibrant and intuitive interface, offering users an extensive collection of diverse recipes.
